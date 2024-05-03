@@ -2,12 +2,12 @@ import React from 'react';
 
 const Newsletter = () => {
     const newsletters = [
-        {id:1, title: "What should you do with your first salary?", image:"src/assets/locker.jpg", link: "/first-salary"},
-        {id:2, title: "How does WhatsApp earn?", image:"src/assets/whatsapp.png", link: "https://web.whatsapp.com"},
-        {id:3, title: "Is McDonald's a real estate company?", image:"src/assets/McDonalds.jpg", link: "/mcdonalds-real-estate"},
-        {id:4, title: "Beware! Your Salary is not as much as you think", image:"src/assets/paper.jpg", link: "/salary-reality"},
-        {id:5, title: "Why can't the government just print more money?", image:"src/assets/money1.jpg", link: "/print-more-money"},
-        {id:6, title: "Debts, Loans and Mortgages", image:"src/assets/debt.jpg", link: "/debts-loans-mortgages"},
+        {id:1, title: "What should you do with your first salary?", image:"../src/assets/locker.jpg", link: "/first-salary"},
+        {id:2, title: "How does WhatsApp earn?", image:"../src/assets/whatsapp.png", link: "https://web.whatsapp.com"},
+        {id:3, title: "Is McDonald's a real estate company?", image:"../src/assets/McDonalds.jpg", link: "/mcdonalds-real-estate"},
+        {id:4, title: "Beware! Your Salary is not as much as you think", image:"../src/assets/paper.jpg", link: "/salary-reality"},
+        {id:5, title: "Why can't the government just print more money?", image:"../src/assets/money1.jpg", link: "/print-more-money"},
+        {id:6, title: "Debts, Loans and Mortgages", image:"../src/assets/debt.jpg", link: "/debts-loans-mortgages"},
     ];
 
     return (
