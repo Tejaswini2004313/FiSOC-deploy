@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "FiSOC-deploy",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
